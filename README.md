@@ -19,7 +19,7 @@ A simple Java console application for managing a small library system.
 
 1. Compile all `.java` files:
 
-2. Run the app:
+2. Run the app
 
 ## Author
 
